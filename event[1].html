@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Events</title>
+    <!-- Flaticon Website -->
+    <link rel="icon" href="./img/date.png">
+</head>
+<body  style="color: white;background-color: black;">
+    
+    <center>
+        <div>
+        <h1>Upcoming Events📅</h1>
+        <p>Don't Miss any of your important events. Here are the important events you 
+            have registered for !
+        </p>
+        <hr>
+    </div>
+    </center>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum scelerisque eros a lacinia. Cras nisl eros, tempor eu nisl nec, interdum ornare quam. Duis convallis, arcu in interdum consectetur, ipsum risus convallis tellus, et tincidunt sem ex quis libero. Fusce volutpat pellentesque nisi, in semper nunc elementum in. Suspendisse in varius tortor. Quisque in interdum massa, quis lacinia mauris. Cras scelerisque augue ac nibh malesuada, vel facilisis velit pharetra. Nullam aliquet diam eget ipsum malesuada auctor at non lorem. Donec nulla erat, efficitur id egestas non, ultricies sodales dui. Phasellus facilisis ex vitae velit volutpat, a rhoncus arcu tincidunt. Fusce maximus pharetra nisi eu euismod. Donec id velit mattis, sodales metus lacinia, finibus diam.</p>
+   
+    <center>
+    <div>
+        <!--Size 600x200px-->
+        
+    <a href="./img/event1.png"><img src="./img/event1.png"></a>
+    <h2>Photo Gallery Event</h2>
+    <h3>Free Entry | Free Food | Pets are Not Allowed</h3>
+    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+</div>    
+
+<div>
+    <img src="./img/event2.png">
+    <h2><a href="http://myntra.com">Fashion Store </a></h2>
+    <h3>Free Entry | Free Food | Pets are Not Allowed</h3>
+    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+</div>    
+</center>
+<hr>
+<footer>
+    <center>
+        <h2>Contact</h2>
+        <h3>+91 787483783743 | eventcollab@gmail.com</h3>
+        <p>9th street Avenue Park, Trichy, 625620</p>
+    </center>
+</footer>
+</body>
+</html>
